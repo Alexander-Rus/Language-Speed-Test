@@ -1,0 +1,10 @@
+version: "3"
+services:
+  item1:
+    image: rust_speed
+  item2:
+    image: python_speed
+  item3:
+    image: java_speed
+  item4:
+    image: c_plus_speed
