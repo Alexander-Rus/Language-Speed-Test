@@ -45,6 +45,6 @@ I was surprised to see that Java was the fastest, but I was not surprised to see
 <p align="center">
 <img src="https://raw.githubusercontent.com/Alexander-Rus/Language-Speed-Test/main/img/Screenshot%20from%202023-01-07%2015-25-21.png"
   alt="Example output of speed test"
-  width="686" height="289">
+  width="894" height="255">
 </p>
 
