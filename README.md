@@ -43,8 +43,8 @@ I was surprised to see that Java was the fastest, but I was not surprised to see
 * In the main directory type in the command `docker-compose up` to run all containers and get the output. 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andresz1/size-limit-action/master/assets/pr.png"
-  alt="Size Limit comment in pull request about bundle size changes"
+<img src="https://raw.githubusercontent.com/Alexander-Rus/Language-Speed-Test/main/img/Screenshot%20from%202023-01-07%2015-25-21.png"
+  alt="Example output of speed test"
   width="686" height="289">
 </p>
 
