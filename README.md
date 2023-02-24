@@ -26,7 +26,7 @@ For each language the results I recieved were as follows:
 **RUST Time elapsed: 3450ms**
 **C++ Time elapsed: 1066.33ms**
 **JAVA Time elapsed: 124 milliseconds**
-
+ 
 These results will likely vary greatly depending on the machine you are using. 
 I was surprised to see that Java was the fastest, but I was not surprised to see python being the slowest. 
 
